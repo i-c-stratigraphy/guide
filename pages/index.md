@@ -1,19 +1,34 @@
 ---
 layout: guide
-title: Home
+title: "Stratigraphic Guide"
 permalink: /
 ---
-## Stratigraphic Guide
+## International Stratigraphic Guide - An abridged version
 
-1. [About the Guide]()
-1. [Preface]()
-1. [Introduction]()
-1. [Principles]()
-1. [Definitions]()
-1. [Stratotypes]()
-1. [Relationships]()
-1. [Unconformity Bounded Units]()
-1. [Magnetostratigraphic Units]()
-1. [Chronostratigraphic Units]()
-1. [Biostratigraphic Units]()
-1. [Lithostratigraphic Units]()
+**Edited by Michael A. Murphy<sup>1</sup> and Amos Salvador<sup>2</sup>**
+
+International Subcommission on Stratigraphic Classification of IUGS  
+International Commission on Stratigraphy
+
+<sup>1</sup>Geology Department, Univ.of California, Davis, California 95616, USA.  
+<sup>2</sup>Department of Geological Sciences, University of Texas at Austin, Austin, Texas 78712, USA;  
+e-mail: <amos.salvador@mail.utexas.edu>
+
+## Contents
+
+1. [About the Guide](/abguide)
+1. [Preface](/pref)
+1. [Introduction](/intr)
+1. [Principles](/princ)
+1. [Definitions](/def)
+1. [Stratotypes](/strats)
+1. [Relationships](/rel)
+1. [Unconformity Bounded Units](/uncon)
+1. [Magnetostratigraphic Units](/magn)
+1. [Chronostratigraphic Units](/chron)
+1. [Biostratigraphic Units](/bio)
+1. [Lithostratigraphic Units](/litho)
+
+Effective communication in science requires accurate and precise internationally acceptable terminology and procedures. The Abridged Version of the International Stratigraphic Guide, like the Guide itself, was developed to promote international agreement on principles of stratigraphic classification and to develop an internationally acceptable stratigraphic terminology and rules of procedure in the interest of improved accuracy and precision in international communication, coordination, and understanding. It is not a revision of the Guide but a short version that omits history, explanatory text, and exemplification, the glossaries and the bibliography.
+
+(A concise guide in the german language of the abridged Stratigraphic Guide is: **Steiniger, F.F. & Piller, W.E.**, 1999. *Empfehlungen (Richtlinien) zur Handhabung der stratigraphischen Nomenklatur*. Courier Forschungsinstitutt Senckenberg 209, 20 p.)

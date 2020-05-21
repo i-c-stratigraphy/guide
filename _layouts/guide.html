@@ -3,7 +3,7 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>International Commission on Stratigraphy</title>
-    <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
     <style>
         body {
             text-align: center;
@@ -48,9 +48,14 @@
             font-family: arial black, avant garde, sans-serif;
         }
 
+        h3 {
+            font-weight: bold;
+            color: darkblue;
+        }
+
         h4 {
             font-weight: bold;
-        }
+        }        
 
         p, li, td, th, a, .caption {
             font-family: arial, helvetica, sans-serif;
@@ -140,7 +145,7 @@
     <div id="widther">
         <div id="header">
             <div style="text-align:right;">
-                <a href="http://stratigraphy.org"><img src="/images/logo-ics.png" alt="ICS logo" style="width:100px" /></a>
+                <a href="http://stratigraphy.org/guide"><img src="/images/logo-ics.png" alt="Stratigraphic Guide's banner" style="width:100px" /></a>
             </div>
             <div id="innerheader">
                 <div id="headertxt" style="padding: 50px 20px;">
@@ -154,6 +159,21 @@
                 {% include menu.html %}
             </div>
             <div id="container-content" style="grid-column: 2;">
+                <h1>Stratigraphic Guide</h1>
+                <span style="font-size:smaller;">
+                    <a href="/">Home</a> | 
+                    <a href="/pref">Preface</a> | 
+                    <a href="/intr">Intro</a> | 
+                    <a href="/princ">Principles</a> | 
+                    <a href="/defs">Definitions</a> | 
+                    <a href="/strats">Stratotypes</a> | 
+                    <a href="/litho">Litho</a> |                    
+                    <a href="/uncon">Unconformity</a> |
+                    <a href="/bio">Bio</a> | 
+                    <a href="/magn">Magneto</a> | 
+                    <a href="/chron">Chrono</a> |                                         
+                    <a href="/rel">Relationships</a>
+                </span>
                 {{ content }}
             </div>            
         </div>
