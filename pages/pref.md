@@ -5,6 +5,7 @@ permalink: /pref
 ---
 ## Preface
 
+
 The second edition of the International Stratigraphic Guide, edited by Amos Salvador, was prepared by the International Subcommission on Stratigraphic Classification of the International Commission on Stratigraphy and co-published in 1994 by the International Union of Geological Sciences and the Geological Society of America. Like the first edition, edited by Hollis D Hedberg and published in 1976, the second edition of the Guide has been widely accepted and used by stratigraphers throughout the world. Copies can be obtained from the Geological Society of America, Publication Sales, P.O. Box 9140, Boulder, CO 80301, Fax 303-447-1133.
 
 Despite the wide acceptance and distribution of the second edition of the Guide, stratigraphers and students of stratigraphy around the world have commented on difficulty in gaining access to the Guide mainly because of remote availability of copies and of cost.The present abridged version of the second edition of the Guide is an attempt to overcome these problems.
