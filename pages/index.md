@@ -17,18 +17,18 @@ e-mail: <amos.salvador@mail.utexas.edu>
 
 ### Contents
 
-1. [About the Guide](/abguide)
-1. [Preface](/pref)
-1. [Introduction](/intr)
-1. [Principles](/princ)
-1. [Definitions](/def)
-1. [Stratotypes](/strats)
-1. [Relationships](/rel)
-1. [Unconformity Bounded Units](/uncon)
-1. [Magnetostratigraphic Units](/magn)
-1. [Chronostratigraphic Units](/chron)
-1. [Biostratigraphic Units](/bio)
-1. [Lithostratigraphic Units](/litho)
+1. [About the Guide](/guide/abguide)
+1. [Preface](/guide/pref)
+1. [Introduction](/guide/intr)
+1. [Principles](/guide/princ)
+1. [Definitions](/guide/def)
+1. [Stratotypes](/guide/strats)
+1. [Relationships](/guide/rel)
+1. [Unconformity Bounded Units](/guide/uncon)
+1. [Magnetostratigraphic Units](/guide/magn)
+1. [Chronostratigraphic Units](/guide/chron)
+1. [Biostratigraphic Units](/guide/bio)
+1. [Lithostratigraphic Units](/guide/litho)
 
 ### About the Guide
 
