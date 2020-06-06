@@ -114,7 +114,7 @@ A depository should be an institution with the proper curatorial facilities and 
 #### 3. <a id="b3"></a>Naming of stratigraphic units.
 The names of most formal stratigraphic units consist of an appropriate geographic name combined with an appropriate term indicating the kind and rank of the unit, e.g. La Luna Formation, except for some terms that were established in the early history of stratigraphy.
 
-The formal name of a biostratigraphic unit is formed from the names of one or more appropriate fossils combined with the appropriate term for the kind of biostratigraphic unit, e.g., Exus albus Assemblage Zone. (see <a href="/bio">Chapter 7 - Biostratigraphic Units</a>).
+The formal name of a biostratigraphic unit is formed from the names of one or more appropriate fossils combined with the appropriate term for the kind of biostratigraphic unit, e.g., Exus albus Assemblage Zone. (see <a href="bio">Chapter 7 - Biostratigraphic Units</a>).
 
 
 a. <a id="b3a"></a>**Geographic component of names of stratigraphic units**
