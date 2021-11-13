@@ -14,8 +14,8 @@ International Subcommission on Stratigraphic Classification of IUGS
 
 <sup>1</sup>Geology Department, Univ.of California, Davis, California 95616, USA.  
 <sup>2</sup>Department of Geological Sciences, University of Texas at Austin, Austin, Texas 78712, USA;  
-<sup>3</sup>Institute of Earth Sciences, NAWI Graz Geocenter, University of Graz, Heinrichstrasse 26, 8010 Graz, Austria
-<sup>4</sup>Department of Earth and Planetary Sciences, Rutgers University, Piscataway, NJ 08873, USA
+<sup>3</sup>Institute of Earth Sciences, NAWI Graz Geocenter, University of Graz, Heinrichstrasse 26, 8010 Graz, Austria  
+<sup>4</sup>Department of Earth and Planetary Sciences, Rutgers University, Piscataway, NJ 08873, USA  
 
 ### Contents
 
