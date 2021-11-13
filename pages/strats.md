@@ -9,7 +9,7 @@ permalink: /strats
 
 **1. Standard definitions.** Named stratigraphic units must be defined or characterized at a specified locality where they are well exposed and developed in order that there will be a common, material standard of reference for their identification.
 
-**2. Reference to a specific rock section.** The particular sequence of strata chosen as a standard of reference of a layered stratigraphic unit is called a stratotype. In the case of nonlayered rocks the standard of reference is a type locality.It may be an area of exposure (or well or mine) and is an essential part of the establishment of a formal stratigraphic unit.In cases where the written description and the stratotype are not the same, the data from the stratotype take precedence.
+**2. Reference to a specific rock section.** The particular sequence of strata chosen as a standard of reference of a layered stratigraphic unit is called a stratotype. In the case of nonlayered rocks the standard of reference is a type locality. It may be an area of exposure (or well or mine) and is an essential part of the establishment of a formal stratigraphic unit. In cases where the written description and the stratotype are not the same, the data from the stratotype take precedence.
 
 For some stratigraphic units, such as biostratigraphic range zones, the standard of the unit cannot be tied to a specific stratigraphic section or area because the stratigraphic scope of the unit may vary with increasing information.
 
@@ -21,7 +21,7 @@ However, the characterization and description of these and other biostratigraphi
 
 **2. Unit-stratotype.** The type section of a layered stratigraphic unit that serves as the standard of reference for the definition and characterization of the unit.
 
-**3. Boundary-Stratotype.**The specified sequence of strata that contains the specific point that defines a boundary between two stratigraphic units.
+**3. Boundary-Stratotype.** The specified sequence of strata that contains the specific point that defines a boundary between two stratigraphic units.
 
 **4. Composite-Stratotype.** A unit-stratotype formed by the combination of several specified intervals of strata combined to make a composite standard of reference.
 
@@ -39,11 +39,9 @@ The following requirements apply to stratotypes:
 **1. Expression of concept.** The most important requisite of a stratotype is that it adequately represents
 the concept for which it is the material type.
 
-**2. Description.** The description of a stratotype is both geographic and geologic. The geographic description includes a detailed location map and/or aerial photographs and indication of the means of access to the type locality and the distribution of the unit in the area.
-The geologic description covers the geologic, paleontologic, geophysical, and geomorphic features of the unit at the type section. The description contains two parts:a part that deals with the boundaries and a part that deals with the content of the unit.
+**2. Description.** The description of a stratotype is both geographic and geologic. The geographic description includes a detailed location map and/or aerial photographs and indication of the means of access to the type locality and the distribution of the unit in the area. The geologic description covers the geologic, paleontologic, geophysical, and geomorphic features of the unit at the type section. The description contains two parts:a part that deals with the boundaries and a part that deals with the content of the unit.
 
-**3. Identification and marking.** An important requirement of a stratotype is that it should be clearly marked.A
-boundary-stratotype is marked at a point, preferably by a permanent monument.
+**3. Identification and marking.** An important requirement of a stratotype is that it should be clearly marked. A boundary-stratotype is marked at a point, preferably by a permanent artificial marker.
 
 Unit boundaries should be clearly designated by reference to permanent geologic and geographic features at the type locality.
 

@@ -6,14 +6,16 @@ permalink: /
 ## International Stratigraphic Guide - An abridged version
 
 
-**Edited by Michael A. Murphy<sup>1</sup> and Amos Salvador<sup>2</sup>**
+**Edited by Michael A. Murphy<sup>1</sup> and Amos Salvador (deceased)<sup>2</sup>**  
+**revised by Werner E. Piller<sup>3</sup> and Marie-Pierre Aubry<sup>4</sup>**
 
 International Subcommission on Stratigraphic Classification of IUGS  
 [International Commission on Stratigraphy](https://stratigraphy.org)
 
 <sup>1</sup>Geology Department, Univ.of California, Davis, California 95616, USA.  
 <sup>2</sup>Department of Geological Sciences, University of Texas at Austin, Austin, Texas 78712, USA;  
-e-mail: <amos.salvador@mail.utexas.edu>
+<sup>3</sup>Institute of Earth Sciences, NAWI Graz Geocenter, University of Graz, Heinrichstrasse 26, 8010 Graz, Austria
+<sup>4</sup>Department of Earth and Planetary Sciences, Rutgers University, Piscataway, NJ 08873, USA
 
 ### Contents
 

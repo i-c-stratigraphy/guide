@@ -27,7 +27,7 @@ The geographic extent of a lithostratigraphic unit is controlled entirely by the
 
 ### C. Kinds of lithostratigraphic Units
 **1. Formal lithostratigraphic units**  
-See <a href="princ#table1">Table 1</a>  and section <a href="defs#a5">3.A.5</a>.
+See <a href="princ#table1">Table 1</a> and section <a href="defs#a5">3.A.5</a>.
 
 The conventional hierarchy of formal lithostratigraphic terms is as follows:
 
@@ -36,7 +36,7 @@ The conventional hierarchy of formal lithostratigraphic terms is as follows:
   <li><strong>Formation</strong> - primary unit of lithostratigraphy</li>
   <li><strong>Member</strong> - named lithologic subdivision of a formation</li>
   <li><strong>Bed</strong> - named distinctive layer in a member or formation</li>
-  <li><strong>Flow</strong> -smallest distinctive layer in a volcanic sequence </li>
+  <li><strong>Flow</strong> - smallest distinctive layer in a volcanic sequence </li>
 </ul>
 
 The component units of any higher rank unit in the hierarchy need not be everywhere the same.
@@ -81,11 +81,12 @@ A succession of two or more contiguous or associated formations with significant
 Formations need not be aggregated into groups unless doing so provides a useful means of simplifying stratigraphic classification in certain regions or certain intervals. Thickness of a stratigraphic succession is not a valid reason for defining a unit as a group rather than a formation. The component formations of a group need not be everywhere the same.
 
 **7. Supergroup and subgroup**  
-The term &quot;supergroup&quot; may be used for several associated groups or for associated groups and formations with significant lithologic properties in common.**
+The term "supergroup" may be used for several associated groups or for associated groups and formations with significant lithologic properties in common.**
 
-Exceptionally, a group may be divided into subgroups.
+A group may be divided into subgroups
 
-**8. Complex.** A lithostratigraphic unit composed of diverse types of any class or classes or rocks (sedimentary, igneous, metamorphic) and characterized by irregularly mixed lithology or by highly complicated structural relations.
+**8. Complex.** 
+A lithostratigraphic unit composed of diverse types of any class or classes or rocks (sedimentary, igneous, metamorphic) and characterized by irregularly mixed lithology or by highly complicated structural relations.
 
 **9. Lithostratigraphic horizon (Lithohorizon)**  
 A surface of lithostratigraphic change, commonly the boundary of a lithostratigraphic unit, or a lithologically distinctive very thin marker bed within a lithostratigraphic unit.
@@ -97,6 +98,7 @@ If a unit merits a formal name it merits proper formal definition and descriptio
 
 
 ### D. Procedures for Establishing Lithostratigraphic Units
+
 **1. Stratotypes and type localities as standard of definition**
 
 Each formal lithostratigraphic unit should have a clear and precise definition or characterization.
@@ -128,20 +130,18 @@ The top or the base of a marker bed may be used as a boundary for a formal litho
 ### F. Naming of Lithostratigraphic Units
 
 **1. General**  
-The name of lithostratigraphic units follows the general rules for naming stratigraphic units (section <a href="defs.htm#b3">3.B.3</a>).
+The name of lithostratigraphic units follows the general rules for naming stratigraphic units, i.e., it is formed from a local geographic feature with the appropriate unit-term indicating its rank (section <a href="defs.htm#b3">3.B.3</a>).
 
-In the case of lithostratigraphic units, a simple lithologic term indicating its dominant rock type may be used instead of the unit-term indicating its rank (group, formation, member, bed).
+Exceptionally, a simple lithologic term indicating its dominant rock type may be used instead of the unit-term indicating its rank (group, formation, member, bed). However, the use of the unit-term is preferable; and the use of both the lithologic term and the unit-term should be discouraged.
 
-However, the use of the unit-term is preferable; and the use of both the lithologic term and the unit-term should be discouraged.
-
-The terms &quot;lower&quot;, &quot;middle&quot;, and &quot;upper&quot; should not be used for formal subdivisions of lithostratigraphic units.
+The terms "lower", "middle", and "upper" should not be used for formal subdivisions of lithostratigraphic units.
 
 <a id="f2"></a>
 
 **2. Geographic component of name**  
 See section <a href="defs#b3a">3.B.3.a</a>.
 
-In the case of lateral changes in lithologic composition, change in the geographic term is desirable for important regional changes, but the indiscriminate proposal of new names for minor lithologic variations is undesirable.
+Where lateral changes in lithologic composition occur, a change in the geographic term is desirable for important regional changes, but the indiscriminate proposal of new names for minor lithologic variations is undesirable.
 
 <a id="f3"></a>
 
@@ -155,17 +155,17 @@ Stratified volcanic rocks and bodies of metamorphic rocks that can be recognized
 
 Nonlayered intrusive rocks and bodies of metamorphic rocks that are deformed and/or recrystallized so that their original layering and stratigraphic succession can no longer be ascertained require a somewhat different treatment.
 
-As lithostratigraphic units, their name should be composed of an appropriate local geographic term combined with either a unit-term or a simple field lithologic term. However, since most geologists may agree that unit-terms such as &quot;group&quot;, &quot;formation&quot;, or &quot;member&quot; imply stratification and position within a stratified sequence, it is more appropriate to use simple field lithologic terms such as &quot;granite&quot;, &quot;gneiss&quot;, or &quot;schist&quot; for these nonlayered units.
+As lithostratigraphic units, their name should be composed of an appropriate local geographic term combined with either a unit-term or a simple field lithologic term. However, since most geologists may agree that unit-terms such as "group", "formation", or "member" imply stratification and position within a stratified sequence, it is more appropriate to use simple field lithologic terms such as "granite", "gneiss", or "schist" for these nonlayered units.
 
-Also appropriate is the use of the terms &quot;complex&quot;, &quot;melange&quot;, and &quot;ophiolite&quot;.
+Also appropriate is the use of the terms "complex", "melange", and "ophiolite".
 
-On the other hand, the use of the term &quot;suite&quot; seems inadvisable. The term has been commonly used for associations of comagmatic intrusive igneous rock bodies of similar or related lithologies and close association in time, space, and origin.
+The use of the term "suite" seems inadvisable. The term has been commonly used for associations of comagmatic intrusive igneous rock bodies of similar or related lithologies and close association in time, space, and origin.
 
-The use of adjectival qualifiers such as &quot;plutonic&quot;, &quot;igneous&quot;, or &quot;volcanic&quot;, though preferably minimized in the formal nomenclature of lithostratigraphic units, may be used when they help to clarify the nature of a unit, as for instance a complex, e.g., &quot;igneous complex&quot;, &quot;volcanic complex&quot;.
+The use of adjectival qualifiers such as "plutonic", "igneous", or "volcanic", though preferably minimized in the formal nomenclature of lithostratigraphic units, are acceptable when they help to clarify the nature of a unit, as for instance a complex, e.g., "igneous complex", "volcanic complex".
 
-Adjectives used as nouns, such as &quot;volcanics&quot; or &quot;metamorphics&quot;, preferably should be avoided even though they have been used widely.
+Adjectives used as nouns, such as "volcanics" or "metamorphics", preferably should be avoided even though they have been used widely.
 
-The lithostratigraphic names of igneous and metamorphic rock bodies should not include terms that express form or structure such as &quot;dike&quot;, &quot;sill&quot;, &quot;pluton&quot;, and &quot;neck&quot;, or the more general term &quot;intrusion&quot;. These terms do not indicate lithology, are not unit-terms in the lithostratigraphic hierarchy, and are not, therefore, lithostratigraphic terms.
+The lithostratigraphic names of igneous and metamorphic rock bodies should not include terms that express form or structure such as "dike", "sill", "pluton", and "neck", or the more general term "intrusion". These terms do not indicate lithology, are not unit-terms in the lithostratigraphic hierarchy, and are not, therefore, lithostratigraphic terms.
 
 
 ### G. Revision of Lithostratigraphic Units

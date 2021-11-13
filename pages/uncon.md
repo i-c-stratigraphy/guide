@@ -21,7 +21,7 @@ A body of rocks bounded above and below by specifically designated, significant 
 The diagnostic criteria used to establish and to identify an unconformity-bounded unit are its two designated bounding unconformities.Unconformity-bounded units may include any number of other kinds of stratigraphic units.
 
 **2. Unconformity**  
-A surface of erosion between rock bodies that represents a significant hiatus or gap in the stratigraphic succession. Some kinds of unconformities are:
+A surface of erosion or non-sedimentation between rock bodies that represents a significant hiatus or gap in the stratigraphic succession. Some kinds of unconformities are:
 
 **a. Angular unconformity**  
 An unconformity in which the bedding planes above and below the unconformity are at an angle to each other.

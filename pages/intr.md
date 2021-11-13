@@ -8,11 +8,11 @@ permalink: /intr
 
 ### A. Origin and Purposes of the Guide
 
-The purposes and spirit of this short version are the same as those of the second edition of the Guide: to promote international agreement on principles of stratigraphic classification and to develop an internationally acceptable stratigraphic terminology and rules of stratigraphic procedure-all in the interest of improved accuracy and precision in international communication, coordination, and understanding.
+The purposes and spirit of this short version are the same as those of the second edition of the Guide: to promote international agreement on principles of stratigraphic classification and to develop an internationally acceptable stratigraphic terminology and rules of stratigraphic procedure — all in the interest of improved accuracy and precision in international communication, coordination, and understanding.
 
 ### B. Composition of Subcommission
 
-The membership of the Subcommission represents a worldwide geographic spread of stratigraphers and stratigraphic organizations and a wide spectrum of stratigraphic interests, traditions and philosophies.
+The purposes and spirit of this short version are the same as those of the second edition of the Guide: to promote international agreement on principles of stratigraphic classification and to develop an internationally acceptable stratigraphic terminology and rules of stratigraphic procedure — all in the interest of improved accuracy and precision in international communication, coordination, and understanding.
 
 Over the years, the number of members has ranged from 75 to 130 representing 30 to 45 countries.
 
