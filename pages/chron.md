@@ -41,7 +41,8 @@ A stratigraphic surface or interface that is isochronous, representing everywher
 **1. Hierarchy of formal chronostratigraphic and geochronologic unit terms**  
 The Guide recommends the following formal chronostratigraphic terms and geochronologic equivalents to express units of different rank or time scope (Table 3).
 
-![](images/table3.jpg)
+**Table 3**: Hierarchy of Formal Chronostratigraphic and Geochronolgic Units  
+![](images/table3.png)
 
 Position within a chronostratigraphic unit is expressed by adjectives indicative of position such as: basal, lower, middle, upper, etc.; position within a geochronologic unit is expressed by temporal adjectives such as:early, middle, late, etc. 
 
@@ -91,7 +92,7 @@ Names of geographic origin should preferably be given the ending "ian" or "an".
 
 The epoch corresponding to a series takes the same name as the series except that the terms "Lower" and "Upper" applied to a series are changed to "Early" and "Late".
 
-**e. Misuse of"series"**
+**e. Misuse of "series"**
 The use of the term "series" for a lithostratigraphic unit more or less equivalent to a group should be discontinued.
 
 **6. System (and Period)**  

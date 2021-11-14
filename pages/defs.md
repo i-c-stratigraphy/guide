@@ -57,10 +57,6 @@ A branch of geochronology that deals with the quantitative (numerical) measureme
 1. **Facies**  
 The term "facies" originally meant the lateral change in lithologic aspect of a stratigraphic unit. Its meaning has been broadened to express a wide range of geologic concepts: environment of deposition, lithologic composition, geographic, climatic or tectonic association, etc.
 
-#### *Caution against preempting general terms for special meanings*
-The preempting of general terms for special restricted meanings has been a source of much confusion. The preferable procedure is to conserve the original general meaning of a term and to seek a more precise and less ambiguous word for the special meaning.
-
-
 
 ### <a id="b"></a>B. Procedures for Establishing and Revising Stratigraphic Units.
 
