@@ -82,9 +82,6 @@ The body of strata representing the known stratigraphic and geographic range of 
 There are two principal types of range zones: taxon-range zones and concurrent-range zones.
 
 **a. Taxon-range Zone**  
-See Figure 1.
-
-![](images/fig1.jpg)
 
 **i. Definition**  
 The body of strata representing the known range of stratigraphic and geographic occurrence of specimens of a particular taxon. It is the sum of the documented occurrences in all individual sections and localities from which the particular taxon has been identified.
@@ -99,9 +96,6 @@ The taxon-range zone is named from the taxon whose range it expresses.
 The local range of a taxon may be specified in some local section, area, or region as long as the context is clear.
 
 **b. Concurrent-range Zone**  
-See Figure 2.
-
-![](images/fig2.jpg)
 
 **i. Definition**  
 The body of strata including the overlapping parts of the range zones of two specified taxa.
@@ -115,19 +109,14 @@ The boundaries of a concurrent-range zone are defined in any particular stratigr
 A concurrent-range zone is named from both the taxa that define and characterize the biozone by their concurrence.
 
 **3. Interval Zone**  
-See Figures 3 and 4.
 
 **a. Definition**  
 The body of fossiliferous strata between two specified biohorizons.
 
-Such a zone is not itself necessarily the range zone of a taxon or concurrence of taxa; it is defined and identified only on the basis of its bounding biohorizons (Figure 3).
-
-![](images/fig3.jpg)
+Such a zone is not itself necessarily the range zone of a taxon or concurrence of taxa; it is defined and identified only on the basis of its bounding biohorizons.
 
 In subsurface stratigraphic work, where the section is penetrated from top to bottom and paleontological
-identification is generally made from drill cuttings, often contaminated by recirculation of previously drilled sediments and material sloughed from the walls of the drill hole, interval zones defined as the stratigraphic section comprised between the highest known occurrence (first occurrence downward) of two specified taxa are particularly useful (Figure 4).<br>
-
-![](images/fig4.jpg)
+identification is generally made from drill cuttings, often contaminated by recirculation of previously drilled sediments and material sloughed from the walls of the drill hole, interval zones defined as the stratigraphic section comprised between the highest known occurrence (first occurrence downward) of two specified taxa are particularly useful.
 
 In subsurface stratigraphic work, where the section is penetrated from top to bottom and paleontological identification is generally made from drill cuttings, often contaminated by recirculation of previously drilled sediments and material sloughed from the walls of the drill hole, interval zones defined as the stratigraphic section comprised between the highest known occurrence (first occurrence downward) of two specified taxa are particularly useful. This type of interval zone has been called "last-occurrence zone" but should preferably be called "highest-occurrence zone".
 
@@ -143,10 +132,7 @@ In the definition of an interval zone, it is desirable to specify the criteria f
 
 An alternative method of naming uses a single taxon name for the name of the zone. The taxon should be a usual component of the zone, although not necessarily confined to it.
 
-**4. Lineage Zone**  
-See Figure 5.
-
-![](images/fig5.jpg)
+**4. Lineage Zone**
 
 Lineage zones are discussed as a separate category because they require for their definition and recognition not only the identification of specific taxa but the assurance that the taxa chosen for their definition represent successive segments of an evolutionary lineage.
 
@@ -165,10 +151,7 @@ The boundaries of a lineage zone are determined by the biohorizons representing 
 **c. Name**  
 A lineage zone is named for the taxon in the lineage whose range or partial range it represents.
 
-**5. Assemblage Zone**  
-See Figure 6.
-
-![](images/fig6.jpg)
+**5. Assemblage Zone**
 
 **a. Definition**  
 The body of strata characterized by an assemblage of three or more fossil taxa that, taken together, distinguishes it in biostratigraphic character from adjacent strata.
@@ -179,10 +162,7 @@ The boundaries of an assemblage zone are drawn at biohorizons marking the limits
 **c. Name**  
 The name of an assemblage zone is derived from the name of one of the prominent and diagnostic constituents of the fossil assemblage.
 
-**6. Abundance zone (or acme zone)**  
-See Figure 7.
-
-![](images/fig7.jpg)
+**6. Abundance zone (or acme zone)**
 
 **a. Definition**  
 The body of strata in which the abundance of a particular taxon or specified group of taxa is significantly greater than is usual in the adjacent parts of the section.

@@ -131,9 +131,7 @@ The eons take the same name as their corresponding eonothems.
 A chronozone is a formal chronostratigraphic unit of unspecified rank, not part of the hierarchy of formal chronostratigraphic units. It is the body of rocks formed anywhere during the time span of some designated stratigraphic unit or geologic feature. The corresponding geochronologic unit is the chron. 
 
 **b. Time span**  
-The time span of a chronozone is the time span of a previously designated stratigraphic unit or interval, such as a lithostratigraphic, biostratigraphic, or magnetostratigraphic polarity unit.It should be recognized, however, that while the stratigraphic unit on which the chronozone is based extends geographically only as far as its diagnostic properties can be recognized, the corresponding chronozone includes all rocks formed everywhere during the time span represented by the designated unit. For instance, a formal chronozone based on the time span of a biozone includes all strata equivalent in age to the total maximum time span of that biozone regardless of the presence or absence of fossils diagnostic of the biozone (Figure 8).
- 
-![](images/fig8.jpg)
+The time span of a chronozone is the time span of a previously designated stratigraphic unit or interval, such as a lithostratigraphic, biostratigraphic, or magnetostratigraphic polarity unit.It should be recognized, however, that while the stratigraphic unit on which the chronozone is based extends geographically only as far as its diagnostic properties can be recognized, the corresponding chronozone includes all rocks formed everywhere during the time span represented by the designated unit. For instance, a formal chronozone based on the time span of a biozone includes all strata equivalent in age to the total maximum time span of that biozone regardless of the presence or absence of fossils diagnostic of the biozone.
 
 **c. Geographic extent**  
 The geographic extent of a chronozone is, in theory, worldwide, but its applicability is limited to the area over which its time span can be identified, which is usually lesser.
