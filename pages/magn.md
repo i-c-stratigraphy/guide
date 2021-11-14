@@ -53,7 +53,7 @@ A body of rocks characterized by its magnetic polarity that allows it to be diff
 **6. Magnetostratigraphic polarity-reversal horizons and polarity-transition zones**  
 Magnetostratigraphic polarity-reversal horizons are surfaces or thin transition intervals across which the magnetic polarity reverses.
 
-Where the polarity change takes place through a substantial interval of strata, of the order of 1 m in thickness, the term &quot;magnetostratigraphic polarity transition-zone&quot; should be used. Magnetostratigraphic polarity-reversal horizons and polarity-transition zones provide the boundaries for magnetostratigraphic polarity units.
+Where the polarity change takes place through a substantial interval of strata, of the order of 1 m in thickness, the term "magnetostratigraphic polarity transition-zone" should be used. Magnetostratigraphic polarity-reversal horizons and polarity-transition zones provide the boundaries for magnetostratigraphic polarity units.
 
 
 ### C. Kinds of magnetostratigraphic polarity units
@@ -68,7 +68,7 @@ Magnetostratigraphic polarity zones may consist of bodies of strata unified by:
 
 
 ### D. Procedures for establishing magneto-stratigraphic polarity units  
-See section <a href="defs#b">3.B</a>.
+See Section [3.B](defs#B).
 
 Standards of reference and stratotypes for polarity units require special treatment. The standard of reference for the definition and recognition of a magnetostratigraphic polarity unit for land-based units is a designated stratotype in a continuous sequence of strata that shows its polarity pattern throughout and clearly defines its upper and lower limits by means of boundary stratotypes. These are marked with artificial permanent markers to facilitate restudy.
 
@@ -79,13 +79,13 @@ A magnetostratigraphic polarity unit and its boundaries may be extended away fro
 
 
 ### F. Naming of Magnetostratigraphic Polarity Units
-See section [3.B.3](defs#b3).
+See Section [3.B.3](defs#B.3).
 
 The formal name of a magnetostratigraphic polarity unit is formed from the name of an appropriate geographic feature combined with a term indicating its rank and direction of polarity, e.g. Jaramillo Normal Polarity Zone.
 
 The currently well-established names derived from the names of distinguished contributors to the science of geomagnetism (for example, Brunhes, Gauss, Matuyama) should not be replaced.
 
-In practice, most polarity units have been given number or letter designation, most commonly the numbers of the classic linear magnetic anomalies of the ocean floor with number from youngest to oldest. This system is usefully employed and should not be discarded although the ocean-floor magnetic anomalies are not conventional stratigraphic units, See section [8.A](#A).
+In practice, most polarity units have been given number or letter designation, most commonly the numbers of the classic linear magnetic anomalies of the ocean floor with number from youngest to oldest. This system is usefully employed and should not be discarded although the ocean-floor magnetic anomalies are not conventional stratigraphic units, See Section [8.A](#A).
 
 The time interval represented by a magnetostratigraphic polarity unit is called a chron (superchron or subchron if necessary). Chronozone is the term used to refer to the rocks formed anywhere during a particular magnetostratigraphic polarity chron (Table 2).
 
@@ -93,4 +93,4 @@ The time interval represented by a magnetostratigraphic polarity unit is called 
 
 
 ### G. Revision of Magnetostratigraphic Polarity Units
-See Section [3.B.5](defs.htm#b5).
+See Section [3.B.5](defs#B.5).

@@ -41,7 +41,7 @@ The basic unconformity-bounded unit is the synthem.
 
 
 ### E. Procedures for establishing unconformity-bounded units
-See section <a href="defs.htm#b">3.B</a>.
+See section [3.B](defs#B).
 
 Because the presence or absence of the bounding discontinuities is the single diagnostic criterion for establishing, defining, recognizing, and extending unconformity-bounded units, the definition of these units should emphasize the discussion of the nature, position, and characteristics of the discontinuities.
 Unconformity-bounded units should be established only where and when they can fulfill a need that other kinds of stratigraphic units cannot meet.
@@ -52,8 +52,8 @@ An unconformity-bounded unit should be extended laterally only as far as both of
 
 
 ### G. Naming of unconformity-bounded units
-See section <a href="defs.htm#b3">3.B.3</a>.
+See Section [3.B.3](defs#B).
 
 
 ### H. Revision of unconformity-bounded units
-See section <a href="defs.htm#b5">3.B.5</a>.
+See Section [3.B.5](defs#B).

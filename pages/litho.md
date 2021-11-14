@@ -27,7 +27,7 @@ The geographic extent of a lithostratigraphic unit is controlled entirely by the
 
 ### C. Kinds of lithostratigraphic Units
 **1. Formal lithostratigraphic units**  
-See <a href="princ#table1">Table 1</a> and section <a href="defs#a5">3.A.5</a>.
+See [Table 1](princ#table1) and Section [3.A.5](defs#A).
 
 The conventional hierarchy of formal lithostratigraphic terms is as follows:
 
@@ -130,7 +130,7 @@ The top or the base of a marker bed may be used as a boundary for a formal litho
 ### F. Naming of Lithostratigraphic Units
 
 **1. General**  
-The name of lithostratigraphic units follows the general rules for naming stratigraphic units, i.e., it is formed from a local geographic feature with the appropriate unit-term indicating its rank (section <a href="defs.htm#b3">3.B.3</a>).
+The name of lithostratigraphic units follows the general rules for naming stratigraphic units, i.e., it is formed from a local geographic feature with the appropriate unit-term indicating its rank (section [3.B.3](defs#B)).
 
 Exceptionally, a simple lithologic term indicating its dominant rock type may be used instead of the unit-term indicating its rank (group, formation, member, bed). However, the use of the unit-term is preferable; and the use of both the lithologic term and the unit-term should be discouraged.
 
@@ -139,7 +139,7 @@ The terms "lower", "middle", and "upper" should not be used for formal subdivisi
 <a id="f2"></a>
 
 **2. Geographic component of name**  
-See section <a href="defs#b3a">3.B.3.a</a>.
+See section [3.B.3.a](defs#B).
 
 Where lateral changes in lithologic composition occur, a change in the geographic term is desirable for important regional changes, but the indiscriminate proposal of new names for minor lithologic variations is undesirable.
 
@@ -169,4 +169,4 @@ The lithostratigraphic names of igneous and metamorphic rock bodies should not i
 
 
 ### G. Revision of Lithostratigraphic Units
-See sections <a href="defs#b5">3.B.5</a>, <a href="#f2">5.F.2</a>, and <a href="#f3">5.F.3</a>.
+See Sections [3.B.5](defs#B), [5.F.2](#f2), and [5.F.3](#f3).

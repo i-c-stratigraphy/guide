@@ -5,6 +5,7 @@ permalink: /defs
 ---
 ## Chapter 3. Definitions and Procedures
 
+<a id="A"></a>
 
 ### A. Definitions
 
@@ -22,8 +23,6 @@ A body of rock established as a distinct entity in the classification of the roc
 
 Stratigraphic units based on one property will not necessarily coincide with those based on another.
 
-<a id="a5"></a>
-
 1. **Stratigraphic terminology**  
 The total of unit-terms used in stratigraphic classification. It may be either formal or informal.  
 
@@ -36,7 +35,7 @@ The total of unit-terms used in stratigraphic classification. It may be either f
 1. **Stratigraphic nomenclature**  
 The system of proper names given to specific stratigraphic units.
 
-1. **Zone**<a id="a7"></a>  
+1. **Zone**
 Minor body of rock in many different categories of stratigraphic classification. The type of zone indicated is made clear by a prefix, e.g., lithozone, biozone, chronozone.
 
 1. **Horizon**  
@@ -57,8 +56,9 @@ A branch of geochronology that deals with the quantitative (numerical) measureme
 1. **Facies**  
 The term "facies" originally meant the lateral change in lithologic aspect of a stratigraphic unit. Its meaning has been broadened to express a wide range of geologic concepts: environment of deposition, lithologic composition, geographic, climatic or tectonic association, etc.
 
+<a id="B"></a>
 
-### <a id="b"></a>B. Procedures for Establishing and Revising Stratigraphic Units.
+### B. Procedures for Establishing and Revising Stratigraphic Units.
 
 The proposal of a new formal stratigraphic unit requires a statement of intent to introduce the new unit and the reasons for the action. A new unit must be duly proposed and duly described. This includes:
 
@@ -67,9 +67,11 @@ The proposal of a new formal stratigraphic unit requires a statement of intent t
 * The designation of a stratotype (type section) or type locality on which the unit is based and which may be used by interested scientists as a reference.
 * Publication in a recognized scientific medium.
 
+<a id="B.1"></a>
+
 #### 1. Definition, characterization, and description
 a. **Name**  
-(see section <a href="#3.B.v">3.B.v</a>).
+(see section [3.B.v](#B)).
 
 b. **Stratotypes or other standards of reference**  
 Gives the geographic location and geologic setting of the stratotype with an indication of accessibility, maps, and markers, both artificial and natural.
@@ -89,6 +91,8 @@ g. **Genesis (where appropriate)**
 
 h. **References to the literature**
 
+<a id="B.2"></a>
+
 #### 2. **Special requirements for establishing subsurface units**  
 The same rules of procedure used for outcrop sections apply to subsurface units established on the basis of exposures in mines, tunnels or from sections penetrated in wells. Stratotypes in well sections are designated by well depths and on well logs and in cores, if available. The following data are desirable for establishing subsurface units:
 
@@ -104,14 +108,14 @@ Electrical and/or other wire-line logs and seismic profiles with boundaries and 
 d. **Depositories**  
 A depository should be an institution with the proper curatorial facilities and assurance of perpetuity where the materials are available for study. The location of the depository for materials from the stratotype well, tunnel or mine should be given.
 
+<a id="B.3"></a>
 
-#### 3. <a id="b3"></a>Naming of stratigraphic units.
+#### 3. </a>Naming of stratigraphic units.
 The names of most formal stratigraphic units consist of an appropriate geographic name combined with an appropriate term indicating the kind and rank of the unit, e.g. La Luna Formation, except for some terms that were established in the early history of stratigraphy.
 
 The formal name of a biostratigraphic unit is formed from the names of one or more appropriate fossils combined with the appropriate term for the kind of biostratigraphic unit, e.g., Exus albus Assemblage Zone. (see <a href="bio">Chapter 7 - Biostratigraphic Units</a>).
 
-
-a. <a id="b3a"></a>**Geographic component of names of stratigraphic units**
+a. **Geographic component of names of stratigraphic units**
 
 i. **Source**  
 Geographic names should be derived from permanent natural or artificial features at or near which the stratigraphic unit is present. A name should be on standard published maps of the pertinent political jurisdiction.
@@ -133,7 +137,7 @@ The change in the name of a geographic feature does not affect the name of the a
 iv. **Inappropriate Geographic Names**  
 A geographic name should not be misleading, e.g. London Formation for a unit in Canada, although a city with that name exists in Canada.
 
-v. <a id="3.B.v"></a>**Duplication of Geographic Names**  
+v. **Duplication of Geographic Names**  
 The name of a new stratigraphic unit should be unique in order to prevent ambiguity.The IUGS Lexique Stratigraphique International and national and regional lexicons contain lists of previously used names and inquiry to geological surveys and other regional organizations is recommended to discover previously used names not yet published in the lexicons.
 
 vi. **Names for subdivisions of Stratigraphic Units**  
@@ -166,8 +170,9 @@ The name of a stratigraphic unit, once applied and then abandoned, should not be
 g. **Preservation of Traditional of Well-Established Names**  
 Traditional or well-established names that do not follow the above procedures and conventions should not be abandoned providing they are or may become well defined or characterized.
 
+<a id="B.4"></a>
 
-#### 4. <a id="b4"></a>Publication
+#### 4. Publication
 
 a. **A Recognized Scientific Medium**  
 Establishment or revision of a formal stratigraphic unit requires publication in a recognized scientific medium.
@@ -175,7 +180,6 @@ Establishment or revision of a formal stratigraphic unit requires publication in
 The main qualifications of a recognized scientific medium are that it is regularly published and reasonably available to the scientific community on request by purchase or through a library.
 
 Abstracts, most fieldtrip guidebooks, dissertations, company reports, open file reports and similar media generally do not meet this requirement.
-
 
 b. **Priority**  
 Publication of a properly proposed, named, and described unit has priority.
@@ -194,8 +198,9 @@ Compound terms for most kinds of stratigraphic units, in which two common words 
 iii. **Repetition of the Complete Name**  
 After the complete name of a stratigraphic unit has been referred to once in a publication, part of the name may be omitted for brevity if the meaning is clear, e.g., the Oxfordian Stage may be referred to as "the Oxfordian", or "the Stage".
 
+<a id="B.5"></a>
 
-#### 5. <a id="b5"></a>Revision or redefinition of previously established stratigraphic units
+#### 5. Revision or redefinition of previously established stratigraphic units
 
 Revision or redefinition of an adequately established unit without changing its name requires a statement of intent to revise the unit, the reasons for doing so, and as much justification and documentation as for proposing a new unit.
 

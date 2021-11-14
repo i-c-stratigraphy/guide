@@ -5,6 +5,7 @@ permalink: /chron
 ---
 ## Chapter 9. Chronostratigraphic Units
 
+<a id="A"></a>
 
 ### A. Nature of Chronostratigraphic Units
 
@@ -16,6 +17,7 @@ geochronologic units.
 The relation of chronostratigraphic units to other kinds of stratigraphic units is discussed in
 [Chapter 10](rel).
 
+<a id="B"></a>
 
 ### B. Definitions
 
@@ -35,6 +37,7 @@ The rank and relative magnitude of the units in the chronostratigraphic hierarch
 **4. Chronostratigraphic horizon (Chronohorizon)**  
 A stratigraphic surface or interface that is isochronous, representing everywhere the same moment in time (i.e., they are of the same age).
 
+<a id="C"></a>
 
 ### C. Kinds of Chronostratigraphic Units
 
@@ -80,10 +83,10 @@ A subseries is a chronostratigraphic unit ranking immediately above stages and b
 The geochronologic equivalent of a subseries is a subepoch.
 
 **b. Boundaries and boundary-stratotypes**  
-Subseries are defined by the boundary stratotypes of the bounding stage(s) (see section [9.H](#H)).
+Subseries are defined by the boundary stratotypes of the bounding stage(s) (see Section [9.H](#H)).
 
 **c. Time span**  
-See section [9.D](#D). 
+See Section [9.D](#D). 
 
 **d. Name**  
 A new series name should be derived from a geographic feature in the vicinity of its stratotype or type area. The names of most currently recognized series, however, are derived from their position within a system: Lower, Middle, Upper.
@@ -103,7 +106,7 @@ A system is a unit of major rank in the conventional chronostratigraphic hierarc
 The geochronologic equivalent of a system is a period. As an exception, the rank of subsystem (Mississippian, Pennsylvanian) is used for the Carboniferous System.
 
 **b. Boundaries and boundary-stratotypes**  
-The boundaries of a system are defined by boundary-stratotypes (see section [9.H](#H)). 
+The boundaries of a system are defined by boundary-stratotypes (see Section [9.H](#H)). 
 
 **c. Time span**  
 The time span of the currently accepted Phanerozoic systems varies broadly.
@@ -139,19 +142,23 @@ The geographic extent of a chronozone is, in theory, worldwide, but its applicab
 **d. Name**  
 A chronozone takes its name from the stratigraphic unit on which it is based, e.g., _Exus albus_ Chronozone, based on the _Exus albus_ Range Zone.
 
-### <a id="D"></a>D. The Standard Global Chronostratigraphic (Geochronologic) Scale
+<a id="D"></a>
+
+### D. The Standard Global Chronostratigraphic (Geochronologic) Scale
 
 **1. Concept**  
-A major goal of chronostratigraphic classification is the establishment of a hierarchy of chronostratigraphic units of worldwide scope, which will serve as a standard scale of reference for the dating of all rocks everywhere and for relating all rocks everywhere to world geologic history (See section [9.B.2](#B)). All units of the standard chronostratigraphic hierarchy are theoretically worldwide in extent, as are their corresponding time spans. 
+A major goal of chronostratigraphic classification is the establishment of a hierarchy of chronostratigraphic units of worldwide scope, which will serve as a standard scale of reference for the dating of all rocks everywhere and for relating all rocks everywhere to world geologic history (See Section [9.B.2](#B)). All units of the standard chronostratigraphic hierarchy are theoretically worldwide in extent, as are their corresponding time spans. 
 
 **2. Present status**  
 The Standard Global Chronostratigraphic (Geochronologic) Scale can be found in [the International Chronostratigraphic Chart](https://stratigraphy.org/chart).
 
+<a id="E"></a>
 
 ### E. Regional Chronostratigraphic Scales 
 
 The units of the Standard Global Chronostratigraphic (Geochronologic) Scale are valid only as they are based on sound, detailed local and regional stratigraphy.Accordingly, the route toward recognition of uniform global units is by means of local or regional stratigraphic scales. Moreover, regional units will probably always be needed whether or not they can be correlated with the standard global units.It is better to refer strata to local or regional units with accuracy and precision rather than to strain beyond the current limits of time correlation in assigning these strata to units of a global scale. Local or regional chronostratigraphic units are governed by the same rules as are established for the units of the Standard Global Chronostratigraphic Scale. 
 
+<a id="F"></a>
 
 ### F. Subdivision of the Precambrian 
 
@@ -159,19 +166,23 @@ The Precambrian has been subdivided into arbitrary geochronometric units called 
 
 There are prospects that chronostratigraphic subdivision of much of the Precambrian may eventually be attained through isotopic dating and through other means of time correlation. However, the basic principles to be used in subdividing the Precambrian into major chronostratigraphic units should be the same as for Phanerozoic rocks, even though different emphasis may be placed on various means of time correlation, predominantly isotopic dating.
 
+<a id="G"></a>
+
 ### G. Quaternary Chronostratigraphic Units 
 
 The basic principles used in subdividing the Quaternary into chronostratigraphic units are the same as for other Phanerozoic chronostratigraphic units, although the methods of time correlation may have a different emphasis.
 
-### <a id="H"></a>H. Procedures for Establishing Chronostratigraphic Units
-See also section [3.B](defs#B). 
+<a id="H"></a>
+
+### H. Procedures for Establishing Chronostratigraphic Units
+See also Section [3.B](defs#B). 
 
 **1. Boundary stratotypes as standards**  
 The essential part of the definition of a chronostratigraphic unit is the time span during which the unit described was formed. Since the only record of geologic time and of the events of geologic history lies in the rocks themselves, the best standard for a chronostratigraphic unit is a body of rocks formed between two designated instants of geologic time. 
 
 For these reasons, the boundaries of a chronostratigraphic unit of any rank are defined by two designated reference points in the rock sequence. 
 
-The two points are located in the boundary-stratotypes of the chronostratigraphic unit which need not be part of a single section.Both, however, should be chosen in sequences of essentially continuous deposition since the reference points for the boundaries should represent points in time as specific as possible (see section [9.H.3](#H)). 
+The two points are located in the boundary-stratotypes of the chronostratigraphic unit which need not be part of a single section.Both, however, should be chosen in sequences of essentially continuous deposition since the reference points for the boundaries should represent points in time as specific as possible (see Section [9.H.3](#H)). 
 
 **2. Advantage of defining chronostratigraphic units by their lower boundary stratotypes**  
 The definition of a chronostratigraphic unit places emphasis in the selection of the boundary-stratotype of its lower boundary; its upper boundary is defined as the lower boundary of the succeeding unit. This procedure avoids gaps and overlaps in the Standard Global Chronostratigraphic Scale.
@@ -195,6 +206,8 @@ In addition to the general requirements for the selection and description of str
 * To insure its acceptance and use in the Earth sciences, a boundary stratotype should be selected to contain as many specific marker horizons or other attributes favorable for long-distance time correlation as possible. 
 
 The IUGS International Commission on Stratigraphy is the body responsible for coordinating the selection and approval of GSSPs of the units of the International Standard Global Chronostratigraphic (Geochronologic) Scale represented in the International Chronostratigraphic Chart (ICC).
+
+<a id="I"></a>
 
 ### I. Procedures for Extending Chronostratigraphic Units-Chronocorrelation (Time Correlation) 
 
@@ -242,7 +255,7 @@ As a result of either epeirogenic movements of land masses or eustatic rises and
 **8. Unconformities**  
 Even though a surface of unconformity varies in age and time-value from place to place and is never universal in extent, certain unconformities may serve as useful guides to the approximate placement of chronostratigraphic boundaries. 
 
-Unconformities, however, cannot fulfill the requirements for the selection of such boundaries (see section [9.H.3](defs#H)). 
+Unconformities, however, cannot fulfill the requirements for the selection of such boundaries (see Section [9.H.3](#H)). 
 
 **9. Orogenies**  
 Crustal disturbances have a recognizable effect on the stratigraphic record. However, the considerable duration of many orogenies, their local rather than worldwide nature, and the difficulty of precise identification make them unsatisfactory indicators of worldwide chronostratigraphic correlation.
@@ -252,12 +265,15 @@ Many other lines of evidence may in some circumstances be helpful as guides to t
 
 Some are more used than others, but none should be rejected. 
 
+<a id="J"></a>
 
 ### J. Naming of Chronostratigraphic Units 
 
 A formal chronostratigraphic unit is given a binomial designation - a proper name plus a term-word - and the initial letters of both are capitalized.Its geochronologic equivalent uses the same proper name combined with the equivalent geochronologic term, e.g., Cretaceous System - Cretaceous Period. 
 
 The proper name of a chronostratigraphic or geochronologic unit may be used alone where there is no danger of confusion, e.g. "the Aquitanian" in place of "the Aquitanian Stage". See sections [3.B.3](defs#B) and [3.B.4](defs#B). 
+
+<a id="K"></a>
 
 ### K. Revision of Chronostratigraphic Units 
 See sections [3.B.4](defs#B) and [9.H](#H). 
