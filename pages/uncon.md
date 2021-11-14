@@ -15,21 +15,21 @@ The relation of unconformity-bounded units to other kinds of stratigraphic units
 
 
 ### B. Definitions
-**1. Unconformity-bounded unit**  
+#### 1. Unconformity-bounded unit  
 A body of rocks bounded above and below by specifically designated, significant discontinuities in the stratigraphic succession preferably of regional or interregional extent.
 
 The diagnostic criteria used to establish and to identify an unconformity-bounded unit are its two designated bounding unconformities.Unconformity-bounded units may include any number of other kinds of stratigraphic units.
 
-**2. Unconformity**  
+#### 2. Unconformity  
 A surface of erosion or non-sedimentation between rock bodies that represents a significant hiatus or gap in the stratigraphic succession. Some kinds of unconformities are:
 
-**a. Angular unconformity**  
+#### a. Angular unconformity  
 An unconformity in which the bedding planes above and below the unconformity are at an angle to each other.
 
-**b. Disconformity**  
+#### b. Disconformity  
 An unconformity in which the bedding planes above and below the stratigraphic break are essentially parallel.
 
-**c. Diastem**  
+#### c. Diastem  
 A short interruption in deposition with little or no erosion before resumption of sedimentation. Diastems are not an appropriate basis for establishing unconformity-bounded units.
 
 

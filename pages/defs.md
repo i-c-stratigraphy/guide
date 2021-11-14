@@ -93,7 +93,7 @@ h. **References to the literature**
 
 <a id="B.2"></a>
 
-#### 2. **Special requirements for establishing subsurface units**  
+#### 2. Special requirements for establishing subsurface units
 The same rules of procedure used for outcrop sections apply to subsurface units established on the basis of exposures in mines, tunnels or from sections penetrated in wells. Stratotypes in well sections are designated by well depths and on well logs and in cores, if available. The following data are desirable for establishing subsurface units:
 
 a. **Designation of well or mine**  
@@ -110,7 +110,7 @@ A depository should be an institution with the proper curatorial facilities and 
 
 <a id="B.3"></a>
 
-#### 3. </a>Naming of stratigraphic units.
+#### 3. Naming of stratigraphic units.
 The names of most formal stratigraphic units consist of an appropriate geographic name combined with an appropriate term indicating the kind and rank of the unit, e.g. La Luna Formation, except for some terms that were established in the early history of stratigraphy.
 
 The formal name of a biostratigraphic unit is formed from the names of one or more appropriate fossils combined with the appropriate term for the kind of biostratigraphic unit, e.g., Exus albus Assemblage Zone. (see <a href="bio">Chapter 7 - Biostratigraphic Units</a>).

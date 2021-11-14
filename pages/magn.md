@@ -35,22 +35,22 @@ The relation of magnetostratigraphic polarity units to other kinds of stratigrap
 
 
 ### B. Definitions
-**1. Magnetostratigraphy**  
+#### 1. Magnetostratigraphy  
 The element of stratigraphy that deals with the magnetic characteristics of rock bodies.
 
-**2. Magnetostratigraphic classification**  
+#### 2. Magnetostratigraphic classification  
 The organization of rock bodies into units based on differences in magnetic character.
 
-**3. Magnetostratigraphic unit (magnetozone)**  
+#### 3. Magnetostratigraphic unit (magnetozone)  
 A body of rocks unified by similar magnetic characteristics which allow it to be differentiated from adjacent rock bodies.
 
-**4. Magnetostratigraphic polarity classification**  
+#### 4. Magnetostratigraphic polarity classification  
 The organization of rock bodies into units based on changes in the polarity of their remanent magnetization related to reversals in the polarity of the Earth's magnetic field.
 
-**5. Magnetostratigraphic polarity unit**  
+#### 5. Magnetostratigraphic polarity unit  
 A body of rocks characterized by its magnetic polarity that allows it to be differentiated from adjacent rock bodies.
 
-**6. Magnetostratigraphic polarity-reversal horizons and polarity-transition zones**  
+#### 6. Magnetostratigraphic polarity-reversal horizons and polarity-transition zones  
 Magnetostratigraphic polarity-reversal horizons are surfaces or thin transition intervals across which the magnetic polarity reverses.
 
 Where the polarity change takes place through a substantial interval of strata, of the order of 1 m in thickness, the term "magnetostratigraphic polarity transition-zone" should be used. Magnetostratigraphic polarity-reversal horizons and polarity-transition zones provide the boundaries for magnetostratigraphic polarity units.
