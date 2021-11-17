@@ -24,7 +24,7 @@ Rock bodies may be classified according to many different inherent properties. E
 1. Unconformity-bounded units - bodies of rock bounded above and below by significant discontinuities in the stratigraphic succession.
 1. Biostratigraphic units - units based on the fossil content of the rock bodies.
 1. Magnetostratigraphic polarity units - units based on changes in the orientation of the remanent magnetization of the rock bodies.
-1. Chronostratigraphic units - units based on the time of formation of the rock bodies.
+1. Chronostratigraphic units - bodies of rocks defined between specified stratigraphic horizons which represent specified intervals of geologic time.
 
 Many other properties and attributes may be used to classify rock bodies and the way is open to use any that show promise. Whenever this is the case, the unit-terms being used should be defined.
 
