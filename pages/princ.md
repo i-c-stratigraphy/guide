@@ -38,8 +38,6 @@ Magnetostratigraphic polarity units, though potentially worldwide in extent, req
 
 Appropriate distinguishing terms are needed for each of the various categories of stratigraphic units. Some of the classifications are best suited to a hierarchical classification whereas in others all categories are of equal rank (Table 1).
 
-<a id="table1">Table 1</a> gives terms here recommended for various categories of stratigraphic units.<br>
-
 **Table 1**: Summary of Categories and Unit-Terms in Stratigraphic Classification  
 <div style="text-align:center;"><img src="images/table1.png" alt="" /></div>
 
