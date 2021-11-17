@@ -30,7 +30,7 @@ The organization of rocks into units as a representation of geological time.
 The purpose of chronostratigraphic classification is to organize systematically the rocks forming the Earth’s crust into named units (chronostratigraphic units) that represent intervals of geologic time (geochronologic units) to serve as references in narratives about Earth history including the evolution of life.
 
 #### 3. Chronostratigraphic unit  
-The purpose of chronostratigraphic classification is to organize systematically the rocks forming the Earth’s crust into named units (chronostratigraphic units) that represent intervals of geologic time (geochronologic units) to serve as references in narratives about Earth history including the evolution of life.
+A body of rocks that includes all rocks representative of a specific interval of geologic time, and only this time span. Chronostratigraphic units are bounded by isochronous horizons which mark specific moments of geological time.
 
 The rank and relative magnitude of the units in the chronostratigraphic hierarchy are a function of the durations they represent.
 
@@ -45,12 +45,10 @@ A stratigraphic surface or interface that is isochronous, representing everywher
 The Guide recommends the following formal chronostratigraphic terms and geochronologic equivalents to express units of different rank or time scope (Table 3).
 
 **Table 3**: Hierarchy of Formal Chronostratigraphic and Geochronolgic Units  
-![](images/table3.png)
-
-Position within a chronostratigraphic unit is expressed by adjectives indicative of position such as: basal, lower, middle, upper, etc.; position within a geochronologic unit is expressed by temporal adjectives such as:early, middle, late, etc. 
+![](images/table3.png) 
 
 #### 2. Stage (and Age)  
-The stage is the basic working unit of chronostratigraphy because it is suited in scope and rank to the practical needs and purposes of interregional chronostratigraphic classification.
+The lower and upper boundary stratotypes of a stage represent specific moments in geologic time, and the time interval between them is the duration of the stage (i.e, named age).
 
 **a. Definition**  
 The stage includes all rocks deposited between two chronostratigraphic horizons defined by GSSPs. A stage is the lowest ranking unit in the chronostratigraphic hierarchy that can be recognized on a global scale.
@@ -198,11 +196,9 @@ The basic principles used in subdividing the Quaternary into chronostratigraphic
 See also Section [3.B](defs#B). 
 
 #### 1. Boundary stratotypes as standards  
-The essential part of the definition of a chronostratigraphic unit is the time span during which the unit described was formed. Since the only record of geologic time and of the events of geologic history lies in the rocks themselves, the best standard for a chronostratigraphic unit is a body of rocks formed between two designated instants of geologic time. 
+The objective of defining chronostratigraphic units is to specify time spans for the description of Earth history. This is achieved by defining specific horizons as representatives of designated instants of geologic time.
 
-For these reasons, the boundaries of a chronostratigraphic unit of any rank are defined by two designated reference points in the rock sequence. 
-
-The two points are located in the boundary-stratotypes of the chronostratigraphic unit which need not be part of a single section.Both, however, should be chosen in sequences of essentially continuous deposition since the reference points for the boundaries should represent points in time as specific as possible (see Section [9.H.3](#H)). 
+The boundaries of a chronostratigraphic unit of any rank are defined by two designated reference points in the rock sequence, the lower and upper boundary-stratotypes of the unit. The two points are located in the boundary-stratotypes of the chronostratigraphic unit which need not be part of a single section. Both, however, should be chosen in sequences of essentially continuous deposition since the reference points for the boundaries should represent points in time as specific as possible (see Section [9.H.3](#H)). 
 
 #### 2. Advantage of defining chronostratigraphic units by their lower boundary stratotypes  
 The definition of a chronostratigraphic unit places emphasis in the selection of the boundary-stratotype of its lower boundary; its upper boundary is defined as the lower boundary of the succeeding unit. This procedure avoids gaps and overlaps in the Standard Global Chronostratigraphic Scale.
@@ -210,8 +206,7 @@ The definition of a chronostratigraphic unit places emphasis in the selection of
 For example, should it subsequently be shown that the selected horizon is at the level of an undetected break in the sequence, then the unrepresented span of geologic history would belong to the lower unit by definition and ambiguity is avoided.
 
 #### 3. Requirements for the selection of boundary stratotypes of chronostratigraphic units  
-The definition of a chronostratigraphic unit places emphasis in the selection of the boundary-stratotype of its lower boundary; its upper boundary is defined as the lower boundary of the succeeding unit. This procedure avoids gaps and overlaps in the Standard Global Chronostratigraphic Scale.
-For example, should it subsequently be shown that the selected horizon is at the level of an undetected break in the sequence, then the unrepresented span of geologic history would belong to the lower unit by definition and ambiguity is avoided.
+Chronostratigraphic units offer the best promise of being identified, accepted, and used globally and of being, therefore, the basis for international communication and understanding because they are defined on the basis of stratigraphic horizons that are globally correlatable. Particularly important in this respect are the units of the Standard Global Chronostratigraphic (Geochronologic) Scale. The term "Global Boundary Stratotype Section and Point" (GSSP) has been proposed for the standard boundary-stratotypes of the units of this scale.
 
 In addition to the general requirements for the selection and description of stratotypes (section
 [4.C](strats#C), boundary-stratotypes of chronostratigraphic units should fulfill the following requirements: 
