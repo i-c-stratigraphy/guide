@@ -40,7 +40,8 @@ Appropriate distinguishing terms are needed for each of the various categories o
 
 <a id="table1">Table 1</a> gives terms here recommended for various categories of stratigraphic units.<br>
 
-<div style="text-align:center;"><img src="images/table1.jpg" alt="" /></div>
+**Table 1**: Summary of Categories and Unit-Terms in Stratigraphic Classification  
+<div style="text-align:center;"><img src="images/table1.png" alt="" /></div>
 
 
 ### D. Chronostratigraphic and Geochronologic Units
