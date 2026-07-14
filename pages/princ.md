@@ -46,7 +46,7 @@ Appropriate distinguishing terms are needed for each of the various categories o
 
 Chronostratigraphic units are tangible stratigraphic units because they encompass all rocks comprised between two bounding chronostratigraphic horizons, i.e., horizons believed to be readily correlatable worldwide. 
 
-Geochronologic units are units of time-an intangible property-and thus intangible units, not in themselves stratigraphic units.
+Geochronologic units are units of time - an intangible property - and thus intangible units, not in themselves stratigraphic units.
 
 
 ### E. Incompleteness of the Rock Record
