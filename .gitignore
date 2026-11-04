@@ -6,3 +6,6 @@ vendor
 
 # Max index files
 .DS_Store
+
+# Local tooling and generated files
+.idea/
