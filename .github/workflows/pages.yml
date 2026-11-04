@@ -1,0 +1,56 @@
+name: Publish themed site and legacy archive
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      JEKYLL_ENV: production
+
+    steps:
+      - uses: actions/checkout@v7
+      - name: Check out the last published original site
+        uses: actions/checkout@v7
+        with:
+          ref: cab21a4e8f6f47e8160a03984e5d1423fb66d20b
+          path: legacy-source
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          bundler-cache: true
+      - name: Build the themed site
+        run: bundle exec jekyll build --strict_front_matter --destination current-site
+      - name: Build the legacy site with the maintained toolchain
+        run: |
+          ruby scripts/prepare_legacy.rb legacy-source /tmp/legacy-config.yml
+          bundle exec jekyll build --strict_front_matter --source legacy-source --config /tmp/legacy-config.yml --destination legacy-site
+      - name: Validate routes, scientific content and archive rebasing
+        run: |
+          ruby scripts/check_site.rb current-site
+          ruby scripts/test_assemble_sites.rb
+      - name: Assemble current site and /old
+        run: ruby scripts/assemble_sites.rb current-site legacy-site _site /guide
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v5
+        id: deployment
